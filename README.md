@@ -19,3 +19,5 @@ Principais Recursos
 Contribuição
 
 Este projeto é para praticar minhas habilidades, e contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull para melhorar o To-Do List Web.
+
+Desenvolvido por [Emerson Jesus](https://github.com/EmersonJesus).
