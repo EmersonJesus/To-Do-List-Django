@@ -21,5 +21,12 @@ document.querySelector('#entrada').onclick = function() {
                 this.parentNode.remove();
             };
         }
+
+        var tarefas = document.querySelectorAll(".tarefa");
+        for(var i=0; i<tarefas.length; i++){
+            tarefas[i].onclick = function () {
+                this.classList.toggle('completada');
+            }
+        }
     }
 }
