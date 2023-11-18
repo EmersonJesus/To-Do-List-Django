@@ -10,7 +10,7 @@ document.querySelector('#entrada').onclick = function() {
                     ${document.querySelector('#nova-tarefa input').value}
                 </span>
                 <button class="deletar">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAuElEQVRIS2NkoDFgpLH5DHgt+P//vwPQAfOBWAGHQx4AxRMZGRkP4HIoIQtABsgT8OUDoAWK5FrwH6QRaABWhwB9iFcerBef6wgZQEgewwKYBkojHtnHKD6guQUwlxPjdWRf4lNPduRR1QJ0FxLiI1tOlA8IGUhxEI1agJGvSA2S0TggWDRRHESEbCDHgg9AQ/kJGYwm/xBYimLUfLhyMqiqXEBEbQaz4yGQkYCt6hzYSp/EIMKqHADevM4Z3dg9agAAAABJRU5ErkJggg=="/>
+                    <i class='bx bx-trash-alt'></i>
                 </button>
             </div>
         `;

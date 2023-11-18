@@ -105,6 +105,19 @@ body {
     outline: none;
 }
 
+#nova-tarefa button:hover {
+    background-color: #fff;
+    color: rgb(38, 1, 252);
+    transition: all 0.2s ease-in;
+    border: 2px solid rgb(38, 1, 252);
+}
+
+.tarefa button:hover {
+    background-color: #fff;
+    color: rgb(38, 1, 252);
+    transition: all 0.2s ease-in;
+    border: 2px solid rgb(38, 1, 252);
+}
 .completada {
-    text-decoration: line-through;
+    text-decoration: line-through rgb(38, 1, 252);
 }
