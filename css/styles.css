@@ -103,6 +103,7 @@ body {
     border: none;
     cursor: pointer;
     outline: none;
+    font-size: 16px;
 }
 
 #nova-tarefa button:hover {
