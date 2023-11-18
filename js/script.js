@@ -9,6 +9,9 @@ document.querySelector('#entrada').onclick = function() {
                 <span id="tarefa-nome">
                     ${document.querySelector('#nova-tarefa input').value}
                 </span>
+                <button class="deletar">
+                    
+                </button>
             </div>
         `;
     }
