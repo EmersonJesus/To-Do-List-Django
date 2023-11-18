@@ -28,5 +28,7 @@ document.querySelector('#entrada').onclick = function() {
                 this.classList.toggle('completada');
             }
         }
+
+        document.querySelector("#nova-tarefa input").value = '';
     }
 }
