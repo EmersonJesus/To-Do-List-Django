@@ -12,3 +12,7 @@ body {
     height: 100vh;
     background: linear-gradient(135deg, rgb(38, 1, 252), rgb(99, 74, 241));
 }
+
+.container {
+    border: 2px solid white;
+}
