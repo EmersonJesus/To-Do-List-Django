@@ -1,6 +1,6 @@
 # To-Do List Web
  
-O To-Do List Web é uma aplicação simples e intuitiva que permite que você organize suas tarefas diárias de forma eficiente. Desenvolvido com HTML, CSS e JavaScript, este aplicativo oferece uma experiência de usuário amigável para ajudar você a manter o controle de suas atividades.
+O To-Do List Web é uma aplicação simples e intuitiva que permite que você organize suas tarefas diárias de forma eficiente. Desenvolvido com HTML, CSS e JavaScript para fins educacionais.
 
 Como Usar
 
