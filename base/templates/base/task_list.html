@@ -45,7 +45,10 @@
 
             </div>
         {% empty %}
-        <h3>No Items in List</h3>
+        <div class="empty-task">
+            <h3>No Items in List</h3>
+            <a class="add-new" href="{% url 'task-create' %}">Add New &#x2b;</a>
+        </div>
         {% endfor %}
     </div>
 {% endblock content %}

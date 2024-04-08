@@ -48,6 +48,7 @@
 
         .header-bar button {
             border: none;
+            cursor: pointer;
             color: rgb(247, 247, 247);
             background-color: transparent;
             font-size: 17px;
@@ -128,17 +129,42 @@
 
         .button {
             border: 1px solid #EB796F;
-            background-color: #fafafa;
-            color: #EB796F;
+            background-color: #EB796F;
+            color: #fafafa;
             padding: 10px;
+            margin-left: 10px;
             font-size: 14px;
             border-radius: 5px;
             cursor: pointer;
             text-decoration: none;
         }
 
+        .button:hover  {
+            background-color: #cf4949;
+        }
+
         .card-body {
             padding: 20px;
+        }
+
+        .card-body a  {
+            text-decoration: none;
+            color: #EB796F;
+        }
+        .card-body a:hover {
+            color: #cf4949;
+        }
+
+        .empty-task {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-bottom: 20px;
+        }
+
+        .empty-task .add-new {
+            text-decoration: none;
+            color: #cf4949;
         }
 
     </style>
