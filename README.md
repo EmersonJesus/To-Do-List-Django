@@ -14,10 +14,9 @@ Este é um aplicativo de lista de tarefas desenvolvido usando Django, HTML, CSS.
 ## Instalação e Uso 🌐
 
 1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Instale as dependências do Django: `pip install -r requirements.txt`
-3. Execute as migrações do banco de dados: `python manage.py migrate`
-4. Inicie o servidor: `python manage.py runserver`
-5. Acesse o aplicativo em seu navegador: `http://localhost:8000`
+2. Execute as migrações do banco de dados: `python manage.py migrate`
+3. Inicie o servidor: `python manage.py runserver`
+4. Acesse o aplicativo em seu navegador: `http://localhost:8000`
 
 ## Tecnologias Utilizadas 🛠️
 
